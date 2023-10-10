@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6902551feaed4dc499f0bea3e38f7004, type: 3}
+  m_Name: BOI_Settings
+  m_EditorClassIdentifier: 
+  module: 5
+  moduleName: Bossverse
+  userRandomNames: 1
+  minimumHeightThreshold: 15
+  randomNames: {fileID: 11400000, guid: 047896d06c3cd454382b8c8e8d7010c5, type: 2}
+  awsRegion: us-west-2
+  loadBalancer: https://lt7fgp4wba.execute-api.us-west-2.amazonaws.com/BOI-LoadBalancer/LoadBalancer
+  highscoreAPI: https://zh6pqi3gga.execute-api.us-west-2.amazonaws.com/BOI_Highscore/BOI_Highscore
+  loadBalancer_Dev: https://ws664ee0ul.execute-api.us-west-2.amazonaws.com/BOI-LoadBalancer_Dev/LoadBalancer_Dev
+  highscoreAPIDev: https://zh6pqi3gga.execute-api.us-west-2.amazonaws.com/BOI_Highscore/BOI_Highscore
+  photonRegion: us
+  photonVoiceVolumen: 2
+  AppId: D5B82F7D-C8F9-44DF-A663-E338D9AC593C
+  packageName: com.KreisImmersive.BOI
+  OculusAppId: 9026944127379360
+  SteamMainAppId: 1946150
+  SteamDlcAppId: 
+  NetworkedScenes:
+  - BOI_Lobby
+  - BOI_RoomDummy
+  VideoPlayerScene: KERN_VideoPlayer
+  ClientScenes:
+  - {fileID: 102900000, guid: df58df60ef6cab147b60a61714c659eb, type: 3}
+  - {fileID: 102900000, guid: c793746e83c4e074a9b81ccf253cd4b0, type: 3}
+  - {fileID: 102900000, guid: 0b123e9a797dcf3428e9a046f9b566ad, type: 3}
+  ServerScenes:
+  - {fileID: 102900000, guid: c5773bc1464ca8d4ba75373f81c2a43a, type: 3}
+  - {fileID: 102900000, guid: c793746e83c4e074a9b81ccf253cd4b0, type: 3}
+  - {fileID: 102900000, guid: 0b123e9a797dcf3428e9a046f9b566ad, type: 3}
