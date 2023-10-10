@@ -2,3 +2,4 @@
 Build/Podium_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
 *.resS* filter=lfs diff=lfs merge=lfs -text
 *.resource* filter=lfs diff=lfs merge=lfs -text
+*.apk* filter=lfs diff=lfs merge=lfs -text
