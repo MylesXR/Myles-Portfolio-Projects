@@ -1,5 +1,6 @@
+_________________________________
 MYLES-PORTFOLIO-PROJECTS
-
+_____________________________________
 A collection of projects I have worked on, organized into folders.
 
 These folders are extracted from larger sandbox projects that contain projects I did not contribute to.
@@ -18,7 +19,7 @@ I have included server and client builds for Kreis Immersive projects.
 
 _______________________________
 SHAKESPEARE IN THE METAVERSE
-
+_________________________________
 
 For Shakespeare in the metaverse, I have included the server and client builds so that this level of the game can be tested reliably.
 
@@ -38,6 +39,7 @@ This will launch the multiplayer demo.
 
 ________________________________
 BOSS INFO TRAINING WORKSPACE
+_____________________________________
 
 For the Boss Info Training Workspace application, I have included a client APK. The server for this application will remain live on AWS.
 
