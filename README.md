@@ -12,7 +12,7 @@ SHAKESPEARE IN THE METAVERSE
 For Shakespeare in the metaverse, I have included the server and client builds so that this level of the game can be tested reliably.
 This is a PC VR application, so you will need to use Air Link or a Link Cable with your HMD.
 To launch this experience, go to folder Shakespeare In The Metaverse -> SIM Dining Room Level Server Build -> Podium.exe
-Next, open Shakespeare In The Metaverse -> Sim Dining Room Client Build -> Podium.exe
+Next, open Shakespeare In The Metaverse -> Sim Dining Room Client Build -> Podium.exe 
 This will launch the multiplayer demo.
 
 BOSS INFO TRAINING WORKSPACE
