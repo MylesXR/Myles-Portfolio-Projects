@@ -1,5 +1,4 @@
-Myles-Portfolio-Projects
-___________________________
+MYLES-PORTFOLIO-PROJECTS
 
 A collection of projects I have worked on, organized into folders.
 
