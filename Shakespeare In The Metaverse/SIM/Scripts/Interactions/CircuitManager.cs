@@ -11,8 +11,8 @@ using UnityEngine;
 public class CircuitManager : NetworkBehaviour
 {
     #region ---- Fields ----
-    [SerializeField] private List<InteractionPoint> interactionPoints; // List of interaction points - can be populated in inspector
-    public List<InteractionPoint> InteractionPoints { get => interactionPoints; set => interactionPoints = value; } // Property for interaction points
+    [SerializeField] private List<InteractionPoint> interactionPoints; // List of InteractionPoints script components - can be populated in inspector
+    public List<InteractionPoint> InteractionPoints { get => interactionPoints; set => interactionPoints = value; } // Property for InteractionPoints Networking.
     [SerializeField] private TargetObjectController targetObjectController; // Controller script that triggers the target object
 
     // Various settings and variables
